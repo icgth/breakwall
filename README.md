@@ -10,7 +10,12 @@
 
 Dos 攻击工具 https://github.com/zanyarjamal/xerxes
 ```shell
+使用
 gcc xerxes.c -o xerxes
 ./xerxes www.fakesite.com 80
+
+测试地址
+http://www.huanqiu.com
+http://www.xinhuanet.com
 ```
  
